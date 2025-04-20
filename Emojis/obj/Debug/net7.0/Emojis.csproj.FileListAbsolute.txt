@@ -1,0 +1,11 @@
+/Users/vfudial/Лабораторные/Emojis/Emojis/bin/Debug/net7.0/Emojis.deps.json
+/Users/vfudial/Лабораторные/Emojis/Emojis/bin/Debug/net7.0/Emojis.dll
+/Users/vfudial/Лабораторные/Emojis/Emojis/bin/Debug/net7.0/Emojis.pdb
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.AssemblyInfoInputs.cache
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.AssemblyInfo.cs
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.csproj.CoreCompileInputs.cache
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.dll
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/refint/Emojis.dll
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.pdb
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/ref/Emojis.dll
