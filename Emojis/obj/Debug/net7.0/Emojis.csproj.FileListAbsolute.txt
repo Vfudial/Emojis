@@ -9,3 +9,15 @@
 /Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/refint/Emojis.dll
 /Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.pdb
 /Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/ref/Emojis.dll
+C:\Users\Vfudial\source\repos\Emojis\Emojis\bin\Debug\net7.0\Emojis.deps.json
+C:\Users\Vfudial\source\repos\Emojis\Emojis\bin\Debug\net7.0\Emojis.dll
+C:\Users\Vfudial\source\repos\Emojis\Emojis\bin\Debug\net7.0\Emojis.pdb
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\Emojis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\Emojis.AssemblyInfoInputs.cache
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\Emojis.AssemblyInfo.cs
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\Emojis.csproj.CoreCompileInputs.cache
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\Emojis.sourcelink.json
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\Emojis.dll
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\refint\Emojis.dll
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\Emojis.pdb
+C:\Users\Vfudial\source\repos\Emojis\Emojis\obj\Debug\net7.0\ref\Emojis.dll
