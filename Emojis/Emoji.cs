@@ -127,8 +127,6 @@ namespace Emojis
             Console.WriteLine($"Id: {Id}. Эмодзи: {Name}, тэг: {Tag}");
         }
 
-        #region IInit Members
-
         public virtual void Init()
         {
             Id = new IdNumber();
@@ -140,50 +138,8 @@ namespace Emojis
         {
             Id = new IdNumber();
             Name = names[rnd.Next(names.Length)];
-            
-            
-            
-     09       
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
             Tag = tags[rnd.Next(tags.Length)];
         }
-
-        #endregion
 
         public object Clone()
         {
