@@ -140,6 +140,46 @@ namespace Emojis
         {
             Id = new IdNumber();
             Name = names[rnd.Next(names.Length)];
+            
+            
+            
+     09       
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             Tag = tags[rnd.Next(tags.Length)];
         }
 
