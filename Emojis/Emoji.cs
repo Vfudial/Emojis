@@ -118,7 +118,7 @@ namespace Emojis
 
         public override int GetHashCode()
         {
-            return Id.Id.GetHashCode()^Name.GetHashCode()^Tag.GetHashCode();
+            return Name.GetHashCode()^Tag.GetHashCode();
         }
 
         // Вывод

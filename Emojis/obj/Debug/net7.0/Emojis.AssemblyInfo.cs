@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Emojis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+983d7ac8793d2930d6f840521a54726e043c8f82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Emojis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Emojis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

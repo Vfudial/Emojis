@@ -9,3 +9,4 @@
 /Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/refint/Emojis.dll
 /Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.pdb
 /Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/ref/Emojis.dll
+/Users/vfudial/Лабораторные/Emojis/Emojis/obj/Debug/net7.0/Emojis.sourcelink.json

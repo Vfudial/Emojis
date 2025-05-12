@@ -20,22 +20,19 @@ namespace Emojis
                 if (input == null)
                 {
                     isChecked = false;
-                    
                     Outputs.BadMessage("Необходимо ввести данные!");
                 }
-                
                 else
                     isChecked = true;
                 
             } while (!isChecked);
-
             return input;
         }
 
         public static int IntInput(string type, int min, int max)
         {
 
-            bool isChecked = false;
+            bool isChecked;
             int input;
 
             do
@@ -61,17 +58,14 @@ namespace Emojis
 
         public static int MenuChoice(string[] menu)
         {
-            bool isValid = false;
-            int menuChoice = 0;
-            
+            bool isValid;
+            int menuChoice;
             do
             {
-                
                 foreach (string item in menu)
                 {
                     Console.WriteLine(item);
                 }
-
                 Outputs.Message("Введите номер пункта:");
                 isValid = int.TryParse(Console.ReadLine(), out menuChoice);
                 if (!isValid || menuChoice > menu.Length)
@@ -80,9 +74,7 @@ namespace Emojis
                     isValid = false;
                 }
             } while (!isValid);
-            
             return menuChoice; 
-
         }
     }
 }
